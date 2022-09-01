@@ -1,0 +1,23 @@
+{
+  "name": "hotelsoftware",
+  "version": "1.0.0",
+  "description": "first_phase",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dagadjei/hotelSoftware.git"
+  },
+  "author": "Dag Adjei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dagadjei/hotelSoftware/issues"
+  },
+  "homepage": "https://github.com/dagadjei/hotelSoftware#readme",
+  "devDependencies": {
+    "electron": "^20.1.1"
+  }
+}
